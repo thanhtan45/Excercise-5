@@ -1,13 +1,17 @@
+.jumbotron {
+    background-color: #b59cf0;
+}
+
 .navbar-light {
-    background-color: #937cc8;
+    background-color: #a993dd;
 }
 
 .nav-bar {
-    background: pink;
+    background: rgb(230, 138, 255);
 }
 
 footer {
-    background: #D6E5FA !important;
+    background: #89a8d3 !important;
     padding: 32px;
 }
 
@@ -33,7 +37,7 @@ body {
 }
 
 .carousel-item {
-    height: 900px;
+    height: 600px;
 }
 
 .carousel-item img {
