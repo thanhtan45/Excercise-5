@@ -7,11 +7,11 @@ header {
 }
 
 .nav-bar {
-    background: pink;
+    background: rgb(239, 146, 249);
 }
 
 footer {
-    background: #D6E5FA !important;
+    background: #87b3f1 !important;
     padding: 32px;
 }
 
@@ -59,4 +59,10 @@ body {
 
 .modal-backdrop {
     z-index: -1;
+}
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+    display: block;
 }
